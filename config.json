@@ -21,20 +21,20 @@
         ""
     ],
     "UNSENTVIP": [
-        "100037743553265",
+        "61556803719349",
         "",
         "",
         "",
         ""
     ],
     "GOD": [
-        "100037743553265",
+        "61556803719349",
         "",
         ""
     ],
     "ADMINBOT": [
-        "100037743553265",
         "",
+        "61556803719349",
         "",
         "",
         "",
@@ -182,22 +182,4 @@
         "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
     },
     "slapv2": {
-        "APIKEY": ""
-    },
-    "videov2": {
-        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
-    },
-    "help2": {
-        "autoUnsend": true,
-        "delayUnsend": 300
-    },
-    "god": {
-        "enable": true
-    },
-    "bannerbw": {
-        "APIKEY": "ntkhang"
-    },
-    "messageforrealcreator": {
-        "enable": true
-    }
-}
+        "APIKEY
